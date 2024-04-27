@@ -53,17 +53,25 @@ This is
 <p>Section Subheading</p>
 </header>
 <aside>
-<h3>Card heading</h3>
-<p>Card content*</p>
-<p><small>*with small content</small></p>
+<h3>Rindra Razafy</h3>
+<p>
+![](../rnd.png)
+</p>
+<p><small>Pure Math Scholar</small></p>
 </aside>
 <aside>
-<h3>Card heading</h3>
-<p>Card content <sup>with notification</sup></p>
+<h3>Nirina Razafy</h3>
+<p>
+![](../nrn.png)
+</p>
+<p><small>Recharging before Action</small></p>
 </aside>
 <aside>
-<h3>Card heading</h3>
-<p>Card content</p>
+<h3>Lerina Razafy</h3>
+<p>
+![](../nrn.png)
+</p>
+<p><small>The proof is in the Code</small></p>
 </aside>
 </section>
 <hr>
