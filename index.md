@@ -6,7 +6,10 @@ author:
 toc-depth: 2
 keywords: [Razafy, Lerina, Rindra, Nirina]
 ---
-<style>:root{--color-bg: linear-gradient(45deg, rgba(255,228,113, 0.9),rgba(228,105,41,0.7));}</style>
+
+<!--
+style>:root{--color-bg: linear-gradient(45deg, rgba(255,228,113, 0.9),rgba(228,105,41,0.7));}</style
+-->
 
 <header>
         <h1>Page Heading with <i>Italics</i> and <u>Underline</u> not in the TOC</h1>
@@ -114,7 +117,7 @@ This is
 -->
 </main>
 
-![Rindra's art](../img/20150115_rnd.jpg "Lights and Shadows"){style="width:100%;height:40rem;"}
+![Rindra's art](./img/20150115_rnd.jpg "Lights and Shadows"){style="width:100%;height:40rem;"}
 
 <main>
 </article>

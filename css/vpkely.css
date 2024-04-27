@@ -241,7 +241,7 @@ nav ul li ul li a {
 
 #TOC:before {
   padding-top: 0.5rem;
-  content: url("https://lerina.github.io/omby.svg");
+  content: url("https://razafy-info.github.io/omby.svg");
   margin-left: 3rem; /*gap between page left border and logo */
 }
 
