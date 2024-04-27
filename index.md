@@ -19,7 +19,7 @@ style>:root{--color-bg: linear-gradient(45deg, rgba(255,228,113, 0.9),rgba(228,1
 </header>
 <main>
 
-# <a href="../index.html">⇦ home</a> {.collapse}
+# <a href="./index.html">⇦ home</a> {.collapse}
 
 # Wasm demo in beta stage
 
@@ -55,21 +55,21 @@ This is
 <aside>
 <h3>Rindra Razafy</h3>
 <p>
-![](../rnd.png)
+![](./img/rnd.png)
 </p>
 <p><small>Pure Math Scholar</small></p>
 </aside>
 <aside>
 <h3>Nirina Razafy</h3>
 <p>
-![](../nrn.png)
+![](./img/nrn.png)
 </p>
 <p><small>Recharging before Action</small></p>
 </aside>
 <aside>
 <h3>Lerina Razafy</h3>
 <p>
-![](../nrn.png)
+![](./img/lrn.png)
 </p>
 <p><small>The proof is in the Code</small></p>
 </aside>
@@ -154,6 +154,6 @@ This is
 </main>
 <footer>
   <a href="https://github.com/lerina" target="_blank" title="github">![github](https://lerina.github.io/img/github32px.png){.link .glow}
-  </a>
+  </a> <https://lerina.github.io>
 </footer>
 
