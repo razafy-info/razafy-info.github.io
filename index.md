@@ -7,14 +7,18 @@ toc-depth: 2
 keywords: [Razafy, Lerina, Rindra, Nirina]
 ---
 
-<!--
-style>:root{--color-bg: linear-gradient(45deg, rgba(255,228,113, 0.9),rgba(228,105,41,0.7));}</style
+<!-- rgba(123, 103, 140, 0.8)
+
 -->
+<style>
+:root{--color-bg: linear-gradient(45deg, rgba(220, 216, 218, 0.8), rgba(199, 213, 221, 0.51));}
+</style
+
 
 <main>
 # <a href="./index.html#profile">&#8680; Profile</a> {.collapse}
 
-<section class="got_up">
+<section class="go_up">
 ![](https://razafy-info.github.io/omby.svg "Family crest")
 </section>
 <section>
