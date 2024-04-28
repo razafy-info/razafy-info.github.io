@@ -252,15 +252,21 @@ nav ul li ul li a {
     display: block;
 }
 
+/*nav#TOC ul {padding-left:9rem} fix for google brakes firefox ;-( */
+
+/*
+margin-left: gap between page left border and logo 
 
 #TOC:before {
   padding-top: 0.5rem;
   content: url("https://razafy-info.github.io/omby.svg");
-  margin-left: 3rem; /*gap between page left border and logo */
+  margin-left: 3rem; 
   display: flex;
     flex-direction: column;
     width: 130px;
+  object-fit: cover;
 }
+*/
 
 /* Typography */
 code,

@@ -15,6 +15,9 @@ style>:root{--color-bg: linear-gradient(45deg, rgba(255,228,113, 0.9),rgba(228,1
 # <a href="./index.html#profile">&#8680; Profile</a> {.collapse}
 
 <section class="got_up">
+![](https://razafy-info.github.io/omby.svg "Family crest")
+</section>
+<section>
 <blockquote>
 "Needs are few, yet wants are many."
 <footer><i>- Way of the Ancestors</i></footer>
