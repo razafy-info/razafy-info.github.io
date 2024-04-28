@@ -7,16 +7,13 @@ toc-depth: 2
 keywords: [Razafy, Lerina, Rindra, Nirina]
 ---
 
-<!-- rgba(123, 103, 140, 0.8)
-
--->
+<!-- rgba(123, 103, 140, 0.8)-->
 <style>
 :root{--color-bg: linear-gradient(45deg, rgba(220, 216, 218, 0.8), rgba(199, 213, 221, 0.51));}
-</style
+</style>
 
 
 <main>
-# <a href="./index.html#profile">&#8680; Profile</a> {.collapse}
 
 <section class="go_up">
 ![](https://razafy-info.github.io/omby.svg "Family crest")
@@ -30,9 +27,13 @@ keywords: [Razafy, Lerina, Rindra, Nirina]
 <hr>
 <section>
 <header>
+# <a href="./index.html#profile">&#8680; Profile</a> {.collapse}
+
 <h2 id="profile">Profile</h2>
 <p>And Contact Information</p>
 </header>
+</section>
+<section>
 <aside>
 <h3>Rindra Razafy</h3>
 <p>
@@ -58,6 +59,7 @@ keywords: [Razafy, Lerina, Rindra, Nirina]
 </section>
 
 [Top](#TOC)
+<hr>
 </main>
 # Rindra {.leftpad}
 
@@ -66,7 +68,7 @@ keywords: [Razafy, Lerina, Rindra, Nirina]
 <main>
 
 [Top](#TOC)
-
+<hr>
 </main>
 # Nirina {.leftpad}
 
@@ -75,7 +77,7 @@ keywords: [Razafy, Lerina, Rindra, Nirina]
 <main>
 
 [Top](#TOC)
-
+<hr>
 </main>
 # Lerina {.leftpad}
 
@@ -84,7 +86,7 @@ keywords: [Razafy, Lerina, Rindra, Nirina]
 <main>
 
 [Top](#TOC)
-
+<hr>
 </main>
 <footer class="center_justify">
   <a href="https://github.com/lerina" target="_blank" title="github">![github](https://lerina.github.io/img/github32px.png){.link .glow}
