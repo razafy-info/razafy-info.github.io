@@ -40,7 +40,7 @@ keywords: [Razafy, Lerina, Rindra, Nirina]
 ![](./img/rnd.png)
 </p>
 - <small>Pure Math Scholar</small>
-: [resume](#) <br> [ualberta directory](https://apps.ualberta.ca/directory/person/razafy){target="_blank"} <br> [linkedin](https://ca.linkedin.com/in/rindra-razafy-b77509217){target="_blank"}
+: [resume](./resume/Razafy_Rindra_CV (2).pdf){target="_blank"} <br> [ualberta directory](https://apps.ualberta.ca/directory/person/razafy){target="_blank"} 
 </aside>
 <aside>
 <h3>Nirina Razafy</h3>
