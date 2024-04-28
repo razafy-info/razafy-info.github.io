@@ -139,6 +139,7 @@ section aside:hover {
     padding: 6rem 0 6rem 0;
 }
 
+/*--- direct use in html*/
 .author { display: none;}
 .subtitle { 
     /*background-color: rgba(31,31,31,0.9);*/
@@ -150,6 +151,18 @@ section aside:hover {
 
 /*pre > .sourceCode {padding-right:1em;} ---------*/
 
+.center_justify {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.leftpad {padding-left:0.5em;}
+
+.got_up {margin-top:-13em;}
+ 
+/*------ */
 /* Headers */
 article header,
 div header,
@@ -178,6 +191,7 @@ section header {
     padding-top: 0;
     width: 100%;
 }
+
 
 /* Nav */
 nav {
@@ -243,6 +257,9 @@ nav ul li ul li a {
   padding-top: 0.5rem;
   content: url("https://razafy-info.github.io/omby.svg");
   margin-left: 3rem; /*gap between page left border and logo */
+  display: flex;
+    flex-direction: column;
+    width: 130px;
 }
 
 /* Typography */
