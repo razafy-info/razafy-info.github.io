@@ -15,6 +15,21 @@ keywords: [Razafy, Lerina, Rindra, Nirina]
 
 <main>
 
+<div class="menu-wrap">
+<input type="checkbox" class="toggler" />
+<div class="hamburger"><div></div></div>
+<div class="menu">
+<div>
+<ul>
+<li><a href="#profile">Profile</a></li>
+<li><a href="#rindra">Rindra</a></li>
+<li><a href="#nirina">Nirina</a></li>
+<li><a href="#lerina">Lerina</a></li>
+</ul>
+</div>
+</div>
+</div>
+
 <section class="go_up">
 ![](https://razafy-info.github.io/omby.svg "Family crest")
 </section>
