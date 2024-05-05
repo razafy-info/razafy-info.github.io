@@ -76,7 +76,7 @@ keywords: [Razafy, Lerina, Rindra, Nirina]
 [Top](#TOC)
 <hr>
 </main>
-# Rindra {.leftpad}
+# Rindra {.left_header_pad}
 
 ![Rindra's art, age 14](./img/20150115_rnd.jpg "Lights and Shadows"){style="width:100%; object-fit: cover;"}
 
@@ -85,7 +85,7 @@ keywords: [Razafy, Lerina, Rindra, Nirina]
 [Top](#TOC)
 <hr>
 </main>
-# Nirina {.leftpad}
+# Nirina {.left_header_pad}
 
 ![Nirina in Nosy Be, age 9](./img/20140304_nrn.jpg "Zen in Paradise"){style="width:100%; object-fit: cover;"}
 
@@ -94,7 +94,7 @@ keywords: [Razafy, Lerina, Rindra, Nirina]
 [Top](#TOC)
 <hr>
 </main>
-# Lerina {.leftpad}
+# Lerina {.left_header_pad}
 
 ![Lerina's Weekend getaway](./img/20100912_lrn.jpg "On the way to Vatomandry, Madagascar"){style="width:100%; object-fit: cover;"}
 
