@@ -62,14 +62,16 @@ keywords: [Razafy, Lerina, Rindra, Nirina]
 <p>
 ![](./img/nrn.png)
 </p>
-<p><small>Recharging before Action</small></p>
+- <small>Recharging before Action</small>
+: [resume](./resume/#){target="_blank"} <br>
 </aside>
 <aside>
 <h3>Lerina Razafy</h3>
 <p>
 ![](./img/lrn.png)
 </p>
-<p><small>The proof is in the Code</small></p>
+- <small>The proof is in the Code</small>
+: [resume](./resume/#){target="_blank"} 
 </aside>
 </section>
 

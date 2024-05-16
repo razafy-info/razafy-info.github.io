@@ -930,3 +930,33 @@ dl:hover dd:last-of-type {
     width: 65vw;
   }
 }
+
+
+/*
+HTML:
+<article style="border-right: 1.3em orange solid;">
+- if there is 
+: a hidden info 
+- regular li
+</article>
+
+RESULT:
+‣ if there is 
+    a hidden info
+• regular li
+
+Restrict to ul in articles only: 
+article li dl::before {
+*/
+li dl::before { 
+  content: "";
+  border-color: transparent #111;
+  border-style: solid;
+  border-width: 0.35em 0 0.35em 0.45em;
+  display: block;
+  height: 0;
+  width: 0;
+  top: 1.2em;
+  left: -0.9em;
+  position: relative;
+}
