@@ -255,6 +255,12 @@ nav ul li ul li a {
     display: block;
 }
 
+/*[x] FIX: transparent bg messes up menu
+
+CHECK FOR A BETTER WAY */
+nav > ul> li>ul {background-color:#a4a4a4;}
+nav>ul>li>ul>li>a {color: #e1e1e1;}
+
 /*nav#TOC ul {padding-left:9rem} fix for google brakes firefox ;-( */
 
 /*
